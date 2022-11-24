@@ -79,3 +79,15 @@
     border: 0.1rem solid; 
     width: 90%;
 }
+/* fin de la segunda parte */
+/* inicio de la tabla tercera parte */ 
+.tablaCostos{
+    border: 0.1rem solid; 
+}
+.tabla{
+    border: 0.1rem solid;
+}
+.ph-center::-webkit-input-placeholder {
+    text-align: center;
+    line-height: 100px;/* Centrado vertical */
+}
