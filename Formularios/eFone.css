@@ -89,5 +89,10 @@
 }
 .ph-center::-webkit-input-placeholder {
     text-align: center;
-    line-height: 100px;/* Centrado vertical */
+    line-height: 100px;
 }
+
+.pru{
+    text-align: center;
+}
+
